@@ -2,6 +2,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pawelpiwosz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"> </a>
+<br />
+<a href="https://twitter.com/PawelPiwosz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PawelPiwosz?style=social"></a>
 </p>
 
 
